@@ -1,0 +1,9 @@
+REACT_APP_BASE_URL=https://api.themoviedb.org/3
+REACT_APP_IMG_URL=https://image.tmdb.org/t/p/w500/
+REACT_APP_API_KEY=api_key=22aebc42426caea5ad0370c9680690d6
+REACT_APP_GENRE_URL=https://api.themoviedb.org/3/genre/movie/list?
+REACT_APP_CONTENT_URL1=/discover/movie?sort_by=popularity.desc&
+REACT_APP_CONTENT_URL2=/discover/movie?primary_release_date.gte=2014-09-15&primary_release_date.lte=2014-10-22&
+REACT_APP_YOUTUBE_LINK=https://www.youtube.com/embed/
+REACT_APP_TRAILER_URL=https://api.themoviedb.org/3/movie/
+REACT_APP_SEARCH_URL=https://api.themoviedb.org/3/search/movie?
